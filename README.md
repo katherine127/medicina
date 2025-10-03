@@ -4,3 +4,4 @@ Aquí hay algunos enlaces útiles que pueden servir como recursos para la medici
 
 - [MSD Manuals](https://www.msdmanuals.com/professional)
 - [3D4Medical](https://3d4medical.com/)
+- [Littmann Education](https://www.littmann.com/en-us/home/education/)
